@@ -1,0 +1,6 @@
+__________________________________
+
+1) genera nuova mappa
+2) conferma
+
+Scelta: 

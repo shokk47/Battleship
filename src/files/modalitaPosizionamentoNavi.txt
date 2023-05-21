@@ -1,0 +1,6 @@
+Inserisci la modalita' di posizionamento navi
+
+1) automatico
+2) manuale
+
+Scelta: 

@@ -1,0 +1,8 @@
+__________________________________
+
+Inserisci direzione
+
+1) Verticale
+2) Orizzontale
+
+scelta: 
