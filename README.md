@@ -1,5 +1,13 @@
 # Battaglia Navale 
 
+Il progetto è stato realizzato come parte dell'esame universitario di laboratorio di Informatica per l'anno accademico 2021/2022. Il team di sviluppo era composto da 5 persone che hanno collaborato per creare una variante desktop del gioco Battaglia Navale.
+
+L'obiettivo principale del progetto era creare un'applicazione che consentisse ai giocatori di sfidarsi in partite di Battaglia Navale, sia contro un avversario umano che contro il computer. Il gioco offre una grafica intuitiva e interattiva, che permette ai giocatori di posizionare le proprie navi sul campo di battaglia e di colpire le navi avversarie utilizzando le coordinate.
+
+Il team ha lavorato in modo collaborativo per sviluppare le varie funzionalità del gioco, includendo la gestione del posizionamento delle navi, la registrazione dei colpi sparati e il controllo dell'affondamento delle navi avversarie. Inoltre, sono state implementate anche le modalità speciali di gioco, come il colpo a largo raggio, il bombardamento aereo e il radar.
+
+Il risultato finale del progetto è stato un gioco di Battaglia Navale funzionale e divertente, che riflette il lavoro di squadra e le competenze acquisite durante il corso di Informatica. Il progetto è stato presentato come parte dell'esame di laboratorio e ha ricevuto un feedback molto positivo dalla commissione esaminatrice per l'approccio creativo e l'implementazione delle funzionalità del gioco.
+
 ## **Regole del gioco classico** ##
 
 La Battaglia Navale è un entusiasmante gioco di strategia in cui due giocatori si sfidano per affondare le navi dell'avversario. Nel gioco al computer, è possibile giocare sia contro un avversario umano che contro il computer stesso.
