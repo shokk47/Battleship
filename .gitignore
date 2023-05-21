@@ -73,6 +73,7 @@
 # CMake
 cmake-build-*/
 src/CMakeLists.txt
+CMakeLists.txt
 
 # Mongo Explorer plugin
 .idea/**/mongoSettings.xml
